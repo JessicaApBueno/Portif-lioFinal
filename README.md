@@ -1,6 +1,6 @@
 <h1>Portifólio Jessica Maio/2024</h1>
 
-<h3> Este projeto foi repaginado para a entrega final do Primeiro Semstre de curso do Programa Descodificadas</h3>
+<h3> Este projeto foi repaginado para a entrega final do Primeiro Semestre de curso do Programa Descodificadas</h3>
 <h4> Nessa versão do meu portifólio mudei todo o Layout, incluí os itens obrigatórios e implementei um menu Hamburguer para Mobile</h4><br>
 
 <h4>Projeto Desenvolvido em:</h4>
